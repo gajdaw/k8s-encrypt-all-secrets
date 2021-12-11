@@ -8,7 +8,7 @@ Run:
 
     ./main.py
 
-To fetch all secrets from K8s first authorize in k8s and then run:
+To fetch all secrets from k8s first authorize in k8s and then run:
 
     ./main.py fetch
 
